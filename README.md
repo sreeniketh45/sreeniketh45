@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @sreeniketh45
+# 👋 Hi, I’m @sreeniketh45
 - 👀 I’m interested in Learning anything
 - 🌱 I’m currently learning Python and Shell Scripts
 - 💞️ I’m looking to collaborate on Cloud Related Activities
